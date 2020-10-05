@@ -1,0 +1,19 @@
+Package: com.Apple.Dammeiosvn.icon
+Architecture: iphoneos-arm
+Version: 1.0.0
+Essential: yes
+Section: System
+Maintainer: Apple Dammeiosvn repo
+Filename: ./debfiles/com.Apple.Dammeiosvn.icon_1.0.0_iphoneos-arm.deb
+Size: 81152
+MD5sum: 0c4ed9d35c563dc20889c13958f888be
+SHA1: d48344398f8ea12976e02c24655c3016253e2aee
+SHA256: 71ffa18690c5e3cf355ef6ef9a5006838c5d31cd2c4adc0f586a656ec720efd8
+SHA512: ccee2a3fcc6ce2d3bae4568d51e851b6736d9834e5d2e1bbd1b54c40d6ce150a4c2d48392a3cb96aa4aacae41a86785c6be0efa314e5383b5b0ad661d2bd8fc4
+Description: Biểu tượng cho Nguồn S3n.Github.io-cydia
+Name: Repo Icon cydia-dammeiosvn.github.io
+Author: Dammeiosvn
+Depiction: http://cydia-dammeiosvn.github.io/depictions?p=com.Apple.Dammeiosvn.icon
+SileoDepiction: http://cydia-dammeiosvn.github.io/depictions?p=com.Apple.Dammeiosvn.icon
+Icon: file:///Applications/Cydia.app/Sections/System1.png
+

@@ -1,0 +1,23 @@
+<package>
+	<id>com.Apple.Dammeiosvn.icon</id>
+	<name>Đam Mê IOS VN</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+                         <maxiOS>19.9</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Gói biểu tượng dành cho nguồn cydia-dammeiosvn.github.io</description>
+		<description>Bao gồm các biểu tượng như Widget, System, Tweak,...</description>
+	</descriptionlist>
+<screenshots>
+    </screenshots>
+	<changelog>
+		<change>Lần đầu phát hành</change>
+	</changelog>
+	<links></links>
+</package>

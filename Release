@@ -1,0 +1,11 @@
+Origin: Dammeiosvn
+Label: Apple Cydia Dammeiosvn
+Suite: stable
+Version: 1.0
+Codename: ios
+Architecture: iphoneos-arm
+Components: main
+Description: Dam Me IOSVN
+MD5Sum:
+ afbb1777a173fbea72a61f4182eb22c4 877 Packages
+ 3858bafb676a56736fa9f0405219cbda 594 Packages.bz2
